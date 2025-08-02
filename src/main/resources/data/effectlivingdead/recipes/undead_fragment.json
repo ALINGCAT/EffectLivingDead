@@ -1,0 +1,32 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    "ABA",
+    "CDE",
+    "AFA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "B": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "C": {
+      "item": "minecraft:warped_fungus"
+    },
+    "D": {
+      "item": "minecraft:magma_cream"
+    },
+    "E": {
+      "item": "minecraft:crimson_fungus"
+    },
+    "F": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "effectlivingdead:undead_fragment"
+  }
+}

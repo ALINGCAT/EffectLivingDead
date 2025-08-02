@@ -12,3 +12,7 @@
 - If someone who has Walking Dead eat golden apple(include enchantment) or restore hp over 8(4 hearts) one time, the buff change to Undead Rebirth.
 - The potions of Living Dead will supply Living Dead effect for 10 second.
 - Someone who has Walking Dead or Undead Rebirth can't get Living Dead.
+## Recipe
+![undead_fragment_recipe](recipe.png)
+![living_dead_brewing_recipe](BrewingRecipe1.png)
+![splash_potion_recipe](BrewingRecipe2.png)

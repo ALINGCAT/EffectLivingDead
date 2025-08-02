@@ -18,7 +18,7 @@ public class LivingDeadEffect extends MobEffect {
     private static final ResourceLocation ICON = new ResourceLocation("effectlivingdead", "textures/mob_effect/living_dead.png");
 
     public LivingDeadEffect() {
-        super(MobEffectCategory.BENEFICIAL, 0xFF0000);
+        super(MobEffectCategory.BENEFICIAL, 0xDA09C2);
     }
 
     @Override
