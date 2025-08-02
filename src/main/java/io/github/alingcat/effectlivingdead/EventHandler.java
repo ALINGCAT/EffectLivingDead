@@ -45,7 +45,7 @@ public class EventHandler {
     }
 
     @SubscribeEvent
-    public static void onItemUseFinish(LivingEntityUseItemEvent event) {
+    public static void onItemUseFinish(LivingEntityUseItemEvent.Finish event) {
         var entity = event.getEntity();
         var stack = event.getItem();
         var item = stack.getItem();
@@ -59,7 +59,7 @@ public class EventHandler {
                     }
                 }
             }
-            if (item == Items.GOLDEN_APPLE || item == Items.ENCHANTED_GOLDEN_APPLE) {
+            if (regenration || item == Items.GOLDEN_APPLE || item == Items.ENCHANTED_GOLDEN_APPLE) {
                 var effect = entity.getEffect(EffectLivingDead.WALKING_DEAD_EFFECT.get());
                 int remaining = 0;
                 if (effect != null) remaining = effect.getDuration();
