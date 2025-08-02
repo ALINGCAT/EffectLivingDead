@@ -19,7 +19,7 @@ public class WalkingDeadEffect extends MobEffect {
     private static final ResourceLocation ICON = new ResourceLocation("effectlivingdead", "textures/mob_effect/walking_dead.png");
 
     public WalkingDeadEffect() {
-        super(MobEffectCategory.NEUTRAL, 0x8E8E8E);
+        super(MobEffectCategory.BENEFICIAL, 0x8E8E8E);
     }
 
     @Override
