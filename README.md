@@ -15,6 +15,6 @@
 - The potions of Living Dead will supply Living Dead effect for 10 second.
 - Someone who has Walking Dead or Undead Rebirth can't get Living Dead.
 ### How can I change Walking Dead to Undead Rebirth
-- Restore hp over 8(4❤)
+- Restore hp over 8(4❤) by 1 time.
 - Drink Potion of Regeneration(couldn't use splash or lingering)
 - Eat golden apple(include enchanted golden apple).
