@@ -1,0 +1,7 @@
+{
+  "effect.effectlivingdead.living_dead": "Living Dead",
+  "effect.effectlivingdead.walking_dead": "Walking Dead",
+  "effect.effectlivingdead.undead_rebirth": "Undead Rebirth",
+  "item.minecraft.potion.effect.living_dead_potion": "Potion of Living Dead",
+  "item.minecraft.splash_potion.effect.living_dead_potion": "Splash Potion of Living Dead"
+}

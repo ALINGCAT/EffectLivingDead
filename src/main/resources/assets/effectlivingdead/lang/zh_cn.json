@@ -1,0 +1,7 @@
+{
+  "effect.effectlivingdead.living_dead": "行尸走肉",
+  "effect.effectlivingdead.walking_dead": "死而不僵",
+  "effect.effectlivingdead.undead_rebirth": "出死入生",
+  "item.minecraft.potion.effect.living_dead_potion": "行尸走肉药水",
+  "item.minecraft.splash_potion.effect.living_dead_potion": "喷溅型行尸走肉药水"
+}
